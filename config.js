@@ -157,8 +157,8 @@ const CONFIG = {
 					link: 'https://www.nordnet.fi/markkinakatsaus',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Yahoo Finance',
+					link: 'https://finance.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMx1WCqo7YG0DUf_1lZJaGCCVbrgGpFMMkQu2ZPE_oqIz7isICaG7CDUMFTK0EFjKacxKAoT0MwKuSeSXfpXpoe7ZeuZfIw3nmclYfwo0p1LBmEhROZEv3BpB_kWDWR4WlHoMzigC-IsPt-C2zQNqzxlxIY4sOifHEBbV0OkxAQh',
 				},
 				{
 					name: 'Trello',
