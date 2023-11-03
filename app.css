@@ -125,15 +125,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-}
 
-.weatherBlock {
-  grid-column: 0 / span 0;
-  grid-row: 0 / span 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
 
 .date {
@@ -141,12 +133,7 @@ body {
   align-items: center;
   justify-content: center;
   margin-top: 30px;
-}
 
-.weather {
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .clock {
