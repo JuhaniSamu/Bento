@@ -135,8 +135,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'X',
+					link: 'https://twitter.com/home?lang=fi',
 				},
 				{
 					name: 'Oldies',
