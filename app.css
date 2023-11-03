@@ -180,8 +180,8 @@ body {
 }
 
 .weatherIcon img {
-  width: 70px;
-  height: 70px;
+  width: 0px;
+  height: 0px;
 }
 
 .weatherValue p {
