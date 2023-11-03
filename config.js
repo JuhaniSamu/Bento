@@ -153,8 +153,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Nordnet',
+					link: 'https://www.nordnet.fi/markkinakatsaus',
 				},
 				{
 					name: 'Dribbble',
