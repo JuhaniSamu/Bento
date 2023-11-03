@@ -131,8 +131,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Youtube',
-					link: 'https://www.youtube.com/',
+					name: 'OpenAi',
+					link: 'https://chat.openai.com/',
 				},
 				{
 					name: 'X',
@@ -161,8 +161,8 @@ const CONFIG = {
 					link: 'https://finance.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMx1WCqo7YG0DUf_1lZJaGCCVbrgGpFMMkQu2ZPE_oqIz7isICaG7CDUMFTK0EFjKacxKAoT0MwKuSeSXfpXpoe7ZeuZfIw3nmclYfwo0p1LBmEhROZEv3BpB_kWDWR4WlHoMzigC-IsPt-C2zQNqzxlxIY4sOifHEBbV0OkxAQh',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Coinmotion',
+					link: 'https://coinmotion.com/fi/',
 				},
 				{
 					name: 'Slack',
