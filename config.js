@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: '!',
+	greetingMorning: '',
 	greetingAfternoon: ',',
 	greetingEvening: ',',
-	greetingNight: '!',
+	greetingNight: '',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -149,7 +149,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'circle-dollar-sign',
 			id: '2',
 			links: [
 				{
