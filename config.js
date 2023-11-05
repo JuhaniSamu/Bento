@@ -69,9 +69,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Chess',
+			icon: 'chess',
+			link: 'https://www.chess.com/',
 		},
 		{
 			id: '6',
