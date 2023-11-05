@@ -69,7 +69,7 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Chess',
+			name: 'controller',
 			icon: 'chess',
 			link: 'https://www.chess.com/',
 		},
